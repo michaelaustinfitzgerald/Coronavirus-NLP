@@ -18,11 +18,11 @@
 ![Post](https://github.com/michaelaustinfitzgerald/Coronavirus-NLP/blob/main/sentiment_post.png)
 
 ## Model and Parameter Tunings
-**Model Type:** MultinomialNB
-**Best Parameters:**
+**Model Type:** MultinomialNB\
+**Best Parameters:**\
 * **alpha** = 1.5
 * **fit_prior** = False
-**Accuracy:** 0.788932
+**Accuracy:** 0.788932\
 ## Model Analysis
 ### Confusion Matrix
 ![Confusion Matrix](https://github.com/michaelaustinfitzgerald/Coronavirus-NLP/blob/main/cm.png)
