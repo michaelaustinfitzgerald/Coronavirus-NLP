@@ -21,7 +21,8 @@
 **Model Type:** MultinomialNB\
 **Best Parameters:**
 * **alpha** = 1.5
-* **fit_prior** = False\
+* **fit_prior** = False
+
 **Accuracy:** 0.788932
 ## Model Analysis
 ### Confusion Matrix
