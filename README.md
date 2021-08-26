@@ -23,7 +23,7 @@
 * **alpha** = 1.5
 * **fit_prior** = False
 
-**Accuracy:** 0.788932
+**Accuracy:** 0.78932
 ## Model Analysis
 ### Confusion Matrix
 ![Confusion Matrix](https://github.com/michaelaustinfitzgerald/Coronavirus-NLP/blob/main/cm.png)
